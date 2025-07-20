@@ -1,0 +1,23 @@
+{
+  "usuarios": [
+    {
+      "id": "1",
+      "Nombre": "Mario",
+      "Apellido": "Deossa",
+      "Correo": "mdeossa@playtechla.com",
+      "Usuario": "mdeossa",
+      "Password": "827ccb0eea8a706c4c34a16891f84e7b"
+    },
+    {
+      "id": "2",
+      "Nombre": "Esmeralda",
+      "Apellido": "Suarez",
+      "Correo": "esuarez@playtechla.com",
+      "Usuario": "esuarez",
+      "Password": "01cfcd4f6b8770febfb40cb906715822"
+    },
+    {
+      "id": "45b9"
+    }
+  ]
+}
